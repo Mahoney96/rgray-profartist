@@ -480,14 +480,14 @@ border: 0.5px solid #000000;
 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
 
 
-/* Description for the container. */
+.container-2-description{
 
 
 position: absolute;
 width: 250px;
 height: 52px;
 
-font-family: .Helvetica LT MM;
+font-family: Helvetica LT MM;
 font-style: normal;
 font-weight: normal;
 font-size: 8px;
@@ -497,10 +497,10 @@ text-align: center;
 color: #000000;
 
 border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
 
 
-/* Rectangle 4 */
+.rectangle-4{
 
 
 position: absolute;
@@ -510,12 +510,12 @@ height: 89px;
 background: #C4C4C4;
 border: 1px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
+backdrop-filter: blur(4px);}
 /* Note: backdrop-filter has minimal browser support */
 
 
 
-/* Rectangle 3 */
+.rectangle-3{
 
 
 position: absolute;
@@ -525,12 +525,12 @@ height: 175px;
 background: #C4C4C4;
 border: 1px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
+backdrop-filter: blur(4px);}
 /* Note: backdrop-filter has minimal browser support */
 
 
 
-/* Line 1 */
+.line-1-d{
 
 
 position: absolute;
@@ -539,10 +539,10 @@ height: 0px;
 
 border: 1.2px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
+transform: rotate(-0.24deg);}
 
 
-/* Container(#7)(Title) */
+.container-num-seven{
 
 
 position: absolute;
@@ -563,17 +563,17 @@ color: #000000;
 
 mix-blend-mode: normal;
 border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
 
 
-/* Description for the container. */
+.description-container-num-four{
 
 
 position: absolute;
 width: 250px;
 height: 52px;
 
-font-family: .Helvetica LT MM;
+font-family: Helvetica LT MM;
 font-style: normal;
 font-weight: normal;
 font-size: 8px;
@@ -583,10 +583,10 @@ text-align: center;
 color: #000000;
 
 border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
 
 
-/* Rectangle 4 */
+.rectangle-num-four{
 
 
 position: absolute;
@@ -596,12 +596,12 @@ height: 89px;
 background: #C4C4C4;
 border: 1px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
+backdrop-filter: blur(4px);}
 /* Note: backdrop-filter has minimal browser support */
 
 
 
-/* Rectangle 3 */
+.rectangle-num-three{
 
 
 position: absolute;
@@ -611,12 +611,12 @@ height: 175px;
 background: #C4C4C4;
 border: 1px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
+backdrop-filter: blur(4px);}
 /* Note: backdrop-filter has minimal browser support */
 
 
 
-/* Line 1 */
+.line-1-e{
 
 
 position: absolute;
@@ -625,10 +625,10 @@ height: 0px;
 
 border: 1.2px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
+transform: rotate(-0.24deg);}
 
 
-/* Container(#12)(Title) */
+.container-num-twelve{
 
 
 position: absolute;
@@ -649,17 +649,17 @@ color: #000000;
 
 mix-blend-mode: normal;
 border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
 
 
-/* Description for the container. */
+.description-container-num-twelve{
 
 
 position: absolute;
 width: 250px;
 height: 52px;
 
-font-family: .Helvetica LT MM;
+font-family: Helvetica LT MM;
 font-style: normal;
 font-weight: normal;
 font-size: 8px;
@@ -669,10 +669,10 @@ text-align: center;
 color: #000000;
 
 border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
 
 
-/* Rectangle 4 */
+.rectangle-4-a{
 
 
 position: absolute;
@@ -682,12 +682,12 @@ height: 89px;
 background: #C4C4C4;
 border: 1px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
+backdrop-filter: blur(4px);}
 /* Note: backdrop-filter has minimal browser support */
 
 
 
-/* Rectangle 3 */
+.rectangle-3-container-a{
 
 
 position: absolute;
@@ -697,12 +697,12 @@ height: 175px;
 background: #C4C4C4;
 border: 1px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
+backdrop-filter: blur(4px);}
 /* Note: backdrop-filter has minimal browser support */
 
 
 
-/* Line 1 */
+.line-1-f{
 
 
 position: absolute;
@@ -711,10 +711,10 @@ height: 0px;
 
 border: 1.2px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
+transform: rotate(-0.24deg);}
 
 
-/* Container(#17)(Title) */
+.container-num-seventeen-title{
 
 
 position: absolute;
@@ -735,17 +735,17 @@ color: #000000;
 
 mix-blend-mode: normal;
 border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
 
 
-/* Description for the container. */
+.container-num-seventeen-title-description{
 
 
 position: absolute;
 width: 250px;
 height: 52px;
 
-font-family: .Helvetica LT MM;
+font-family: Helvetica LT MM;
 font-style: normal;
 font-weight: normal;
 font-size: 8px;
@@ -755,10 +755,10 @@ text-align: center;
 color: #000000;
 
 border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
 
 
-/* Rectangle 4 */
+.rectangle-container-four-a{
 
 
 position: absolute;
@@ -768,12 +768,12 @@ height: 89px;
 background: #C4C4C4;
 border: 1px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
+backdrop-filter: blur(4px);}
 /* Note: backdrop-filter has minimal browser support */
 
 
 
-/* Rectangle 3 */
+.rectangle-3-container-b{
 
 
 position: absolute;
@@ -783,12 +783,12 @@ height: 175px;
 background: #C4C4C4;
 border: 1px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
+backdrop-filter: blur(4px);}
 /* Note: backdrop-filter has minimal browser support */
 
 
 
-/* Line 1 */
+.line-1-g{
 
 
 position: absolute;
@@ -797,10 +797,9 @@ height: 0px;
 
 border: 1.2px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
+transform: rotate(-0.24deg);}
 
-
-/* Container(#22)(Title) */
+.container-num-22-title-contain{
 
 
 position: absolute;
@@ -821,17 +820,17 @@ color: #000000;
 
 mix-blend-mode: normal;
 border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
 
 
-/* Description for the container. */
+.container-num-22-title-contain-description{
 
 
 position: absolute;
 width: 250px;
 height: 52px;
 
-font-family: .Helvetica LT MM;
+font-family: Helvetica LT MM;
 font-style: normal;
 font-weight: normal;
 font-size: 8px;
@@ -841,10 +840,10 @@ text-align: center;
 color: #000000;
 
 border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
 
 
-/* Rectangle 4 */
+.rectangle-4-container-b{
 
 
 position: absolute;
@@ -854,12 +853,12 @@ height: 89px;
 background: #C4C4C4;
 border: 1px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
+backdrop-filter: blur(4px);}
 /* Note: backdrop-filter has minimal browser support */
 
 
 
-/* Rectangle 3 */
+.rectangle-container-num-three{
 
 
 position: absolute;
@@ -869,12 +868,12 @@ height: 175px;
 background: #C4C4C4;
 border: 1px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
+backdrop-filter: blur(4px);}
 /* Note: backdrop-filter has minimal browser support */
 
 
 
-/* Line 1 */
+.line-1-h{
 
 
 position: absolute;
@@ -884,9 +883,9 @@ height: 0px;
 border: 1.2px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 transform: rotate(-0.24deg);
+}
 
-
-/* Container(#3)(Title) */
+.container-num-3-title-includ{
 
 
 position: absolute;
@@ -907,17 +906,99 @@ color: #000000;
 
 mix-blend-mode: normal;
 border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
 
 
-/* Description for the container. */
+.container-num-3-title-includ-descript{
 
 
 position: absolute;
 width: 250px;
 height: 52px;
 
-font-family: .Helvetica LT MM;
+font-family: Helvetica LT MM;
+font-style: normal;
+font-weight: normal;
+font-size: 8px;
+line-height: 10px;
+text-align: center;
+
+color: #000000;
+
+border: 0.5px solid #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
+
+
+.rectangle-num-four-container-c{
+
+
+position: absolute;
+width: 239px;
+height: 89px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(4px);}
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+.reactangle-num-three-container{
+
+
+position: absolute;
+width: 250px;
+height: 175px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(4px);}
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+.line-1-j{
+
+
+position: absolute;
+width: 239px;
+height: 0px;
+
+border: 1.2px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(-0.24deg);}
+
+
+.container-num-eight-title-includ{
+position: absolute;
+width: 230px;
+height: 31px;
+
+font-family: Siemreap;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+text-decoration-line: underline;
+
+color: #000000;
+
+mix-blend-mode: normal;
+border: 0.5px solid #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
+
+
+.container-num-eight-title-includ-descript{
+position: absolute;
+width: 250px;
+height: 52px;
+
+font-family: Helvetica LT MM;
 font-style: normal;
 font-weight: normal;
 font-size: 8px;
@@ -928,9 +1009,9 @@ color: #000000;
 
 border: 0.5px solid #000000;
 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
 
-
-/* Rectangle 4 */
+.Rectangle-four-container-d{
 
 
 position: absolute;
@@ -940,12 +1021,12 @@ height: 89px;
 background: #C4C4C4;
 border: 1px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
+backdrop-filter: blur(4px);}
 /* Note: backdrop-filter has minimal browser support */
 
 
 
-/* Rectangle 3 */
+.rectangle-num-four-container-d{
 
 
 position: absolute;
@@ -955,12 +1036,12 @@ height: 175px;
 background: #C4C4C4;
 border: 1px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
+backdrop-filter: blur(4px);}
 /* Note: backdrop-filter has minimal browser support */
 
 
 
-/* Line 1 */
+.line-1-k{
 
 
 position: absolute;
@@ -969,10 +1050,10 @@ height: 0px;
 
 border: 1.2px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
+transform: rotate(-0.24deg);}
 
 
-/* Container(#8)(Title) */
+.container-num-thirteen-title-includ{
 
 
 position: absolute;
@@ -993,17 +1074,17 @@ color: #000000;
 
 mix-blend-mode: normal;
 border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
 
 
-/* Description for the container. */
+.container-num-eightteen-descrp{
 
 
 position: absolute;
 width: 250px;
 height: 52px;
 
-font-family: .Helvetica LT MM;
+font-family: Helvetica LT MM;
 font-style: normal;
 font-weight: normal;
 font-size: 8px;
@@ -1014,1135 +1095,5 @@ color: #000000;
 
 border: 0.5px solid #000000;
 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
 
-
-/* Rectangle 4 */
-
-
-position: absolute;
-width: 239px;
-height: 89px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Rectangle 3 */
-
-
-position: absolute;
-width: 250px;
-height: 175px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Line 1 */
-
-
-position: absolute;
-width: 239px;
-height: 0px;
-
-border: 1.2px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
-
-
-/* Container(#13)(Title) */
-
-
-position: absolute;
-width: 230px;
-height: 31px;
-
-font-family: Siemreap;
-font-style: normal;
-font-weight: normal;
-font-size: 15px;
-line-height: 28px;
-display: flex;
-align-items: center;
-text-align: center;
-text-decoration-line: underline;
-
-color: #000000;
-
-mix-blend-mode: normal;
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Description for the container. */
-
-
-position: absolute;
-width: 250px;
-height: 52px;
-
-font-family: .Helvetica LT MM;
-font-style: normal;
-font-weight: normal;
-font-size: 8px;
-line-height: 10px;
-text-align: center;
-
-color: #000000;
-
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Rectangle 4 */
-
-
-position: absolute;
-width: 239px;
-height: 89px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Rectangle 3 */
-
-
-position: absolute;
-width: 250px;
-height: 175px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Line 1 */
-
-
-position: absolute;
-width: 239px;
-height: 0px;
-
-border: 1.2px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
-
-
-/* Container(#18)(Title) */
-
-
-position: absolute;
-width: 230px;
-height: 31px;
-
-font-family: Siemreap;
-font-style: normal;
-font-weight: normal;
-font-size: 15px;
-line-height: 28px;
-display: flex;
-align-items: center;
-text-align: center;
-text-decoration-line: underline;
-
-color: #000000;
-
-mix-blend-mode: normal;
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Description for the container. */
-
-
-position: absolute;
-width: 250px;
-height: 52px;
-
-font-family: .Helvetica LT MM;
-font-style: normal;
-font-weight: normal;
-font-size: 8px;
-line-height: 10px;
-text-align: center;
-
-color: #000000;
-
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Rectangle 4 */
-
-
-position: absolute;
-width: 239px;
-height: 89px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Rectangle 3 */
-
-
-position: absolute;
-width: 250px;
-height: 175px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Line 1 */
-
-
-position: absolute;
-width: 239px;
-height: 0px;
-
-border: 1.2px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
-
-
-/* Container(#23)(Title) */
-
-
-position: absolute;
-width: 230px;
-height: 31px;
-
-font-family: Siemreap;
-font-style: normal;
-font-weight: normal;
-font-size: 15px;
-line-height: 28px;
-display: flex;
-align-items: center;
-text-align: center;
-text-decoration-line: underline;
-
-color: #000000;
-
-mix-blend-mode: normal;
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Description for the container. */
-
-
-position: absolute;
-width: 250px;
-height: 52px;
-
-font-family: .Helvetica LT MM;
-font-style: normal;
-font-weight: normal;
-font-size: 8px;
-line-height: 10px;
-text-align: center;
-
-color: #000000;
-
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Rectangle 4 */
-
-
-position: absolute;
-width: 239px;
-height: 89px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Rectangle 3 */
-
-
-position: absolute;
-width: 250px;
-height: 175px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Line 1 */
-
-
-position: absolute;
-width: 239px;
-height: 0px;
-
-border: 1.2px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
-
-
-/* Container(#4)(Title) */
-
-
-position: absolute;
-width: 230px;
-height: 31px;
-
-font-family: Siemreap;
-font-style: normal;
-font-weight: normal;
-font-size: 15px;
-line-height: 28px;
-display: flex;
-align-items: center;
-text-align: center;
-text-decoration-line: underline;
-
-color: #000000;
-
-mix-blend-mode: normal;
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Description for the container. */
-
-
-position: absolute;
-width: 250px;
-height: 52px;
-
-font-family: .Helvetica LT MM;
-font-style: normal;
-font-weight: normal;
-font-size: 8px;
-line-height: 10px;
-text-align: center;
-
-color: #000000;
-
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Rectangle 4 */
-
-
-position: absolute;
-width: 239px;
-height: 89px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Rectangle 3 */
-
-
-position: absolute;
-width: 250px;
-height: 175px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Line 1 */
-
-
-position: absolute;
-width: 239px;
-height: 0px;
-
-border: 1.2px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
-
-
-/* Container(#9)(Title) */
-
-
-position: absolute;
-width: 230px;
-height: 31px;
-
-font-family: Siemreap;
-font-style: normal;
-font-weight: normal;
-font-size: 15px;
-line-height: 28px;
-display: flex;
-align-items: center;
-text-align: center;
-text-decoration-line: underline;
-
-color: #000000;
-
-mix-blend-mode: normal;
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Description for the container. */
-
-
-position: absolute;
-width: 250px;
-height: 52px;
-
-font-family: .Helvetica LT MM;
-font-style: normal;
-font-weight: normal;
-font-size: 8px;
-line-height: 10px;
-text-align: center;
-
-color: #000000;
-
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Rectangle 4 */
-
-
-position: absolute;
-width: 239px;
-height: 89px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Rectangle 3 */
-
-
-position: absolute;
-width: 250px;
-height: 175px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Line 1 */
-
-
-position: absolute;
-width: 239px;
-height: 0px;
-
-border: 1.2px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
-
-
-/* Container(#14)(Title) */
-
-
-position: absolute;
-width: 230px;
-height: 31px;
-
-font-family: Siemreap;
-font-style: normal;
-font-weight: normal;
-font-size: 15px;
-line-height: 28px;
-display: flex;
-align-items: center;
-text-align: center;
-text-decoration-line: underline;
-
-color: #000000;
-
-mix-blend-mode: normal;
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Description for the container. */
-
-
-position: absolute;
-width: 250px;
-height: 52px;
-
-font-family: .Helvetica LT MM;
-font-style: normal;
-font-weight: normal;
-font-size: 8px;
-line-height: 10px;
-text-align: center;
-
-color: #000000;
-
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Rectangle 4 */
-
-
-position: absolute;
-width: 239px;
-height: 89px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Rectangle 3 */
-
-
-position: absolute;
-width: 250px;
-height: 175px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Line 1 */
-
-
-position: absolute;
-width: 239px;
-height: 0px;
-
-border: 1.2px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
-
-
-/* Container(#19)(Title) */
-
-
-position: absolute;
-width: 230px;
-height: 31px;
-
-font-family: Siemreap;
-font-style: normal;
-font-weight: normal;
-font-size: 15px;
-line-height: 28px;
-display: flex;
-align-items: center;
-text-align: center;
-text-decoration-line: underline;
-
-color: #000000;
-
-mix-blend-mode: normal;
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Description for the container. */
-
-
-position: absolute;
-width: 250px;
-height: 52px;
-
-font-family: .Helvetica LT MM;
-font-style: normal;
-font-weight: normal;
-font-size: 8px;
-line-height: 10px;
-text-align: center;
-
-color: #000000;
-
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Rectangle 4 */
-
-
-position: absolute;
-width: 239px;
-height: 89px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Rectangle 3 */
-
-
-position: absolute;
-width: 250px;
-height: 175px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Line 1 */
-
-
-position: absolute;
-width: 239px;
-height: 0px;
-
-border: 1.2px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
-
-
-/* Container(#24)(Title) */
-
-
-position: absolute;
-width: 230px;
-height: 31px;
-
-font-family: Siemreap;
-font-style: normal;
-font-weight: normal;
-font-size: 15px;
-line-height: 28px;
-display: flex;
-align-items: center;
-text-align: center;
-text-decoration-line: underline;
-
-color: #000000;
-
-mix-blend-mode: normal;
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Description for the container. */
-
-
-position: absolute;
-width: 250px;
-height: 52px;
-
-font-family: .Helvetica LT MM;
-font-style: normal;
-font-weight: normal;
-font-size: 8px;
-line-height: 10px;
-text-align: center;
-
-color: #000000;
-
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Rectangle 4 */
-
-
-position: absolute;
-width: 239px;
-height: 89px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Rectangle 3 */
-
-
-position: absolute;
-width: 250px;
-height: 175px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Line 1 */
-
-
-position: absolute;
-width: 239px;
-height: 0px;
-
-border: 1.2px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
-
-
-/* Container(#5)(Title) */
-
-
-position: absolute;
-width: 230px;
-height: 31px;
-
-font-family: Siemreap;
-font-style: normal;
-font-weight: normal;
-font-size: 15px;
-line-height: 28px;
-display: flex;
-align-items: center;
-text-align: center;
-text-decoration-line: underline;
-
-color: #000000;
-
-mix-blend-mode: normal;
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Description for the container. */
-
-
-position: absolute;
-width: 250px;
-height: 52px;
-
-font-family: .Helvetica LT MM;
-font-style: normal;
-font-weight: normal;
-font-size: 8px;
-line-height: 10px;
-text-align: center;
-
-color: #000000;
-
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Rectangle 4 */
-
-
-position: absolute;
-width: 239px;
-height: 89px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Rectangle 3 */
-
-
-position: absolute;
-width: 250px;
-height: 175px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Line 1 */
-
-
-position: absolute;
-width: 239px;
-height: 0px;
-
-border: 1.2px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
-
-
-/* Container(#10)(Title) */
-
-
-position: absolute;
-width: 230px;
-height: 31px;
-
-font-family: Siemreap;
-font-style: normal;
-font-weight: normal;
-font-size: 15px;
-line-height: 28px;
-display: flex;
-align-items: center;
-text-align: center;
-text-decoration-line: underline;
-
-color: #000000;
-
-mix-blend-mode: normal;
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Description for the container. */
-
-
-position: absolute;
-width: 250px;
-height: 52px;
-
-font-family: .Helvetica LT MM;
-font-style: normal;
-font-weight: normal;
-font-size: 8px;
-line-height: 10px;
-text-align: center;
-
-color: #000000;
-
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Rectangle 4 */
-
-
-position: absolute;
-width: 239px;
-height: 89px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Rectangle 3 */
-
-
-position: absolute;
-width: 250px;
-height: 175px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Line 1 */
-
-
-position: absolute;
-width: 239px;
-height: 0px;
-
-border: 1.2px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
-
-
-/* Container(#15)(Title) */
-
-
-position: absolute;
-width: 230px;
-height: 31px;
-
-font-family: Siemreap;
-font-style: normal;
-font-weight: normal;
-font-size: 15px;
-line-height: 28px;
-display: flex;
-align-items: center;
-text-align: center;
-text-decoration-line: underline;
-
-color: #000000;
-
-mix-blend-mode: normal;
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Description for the container. */
-
-
-position: absolute;
-width: 250px;
-height: 52px;
-
-font-family: .Helvetica LT MM;
-font-style: normal;
-font-weight: normal;
-font-size: 8px;
-line-height: 10px;
-text-align: center;
-
-color: #000000;
-
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Rectangle 4 */
-
-
-position: absolute;
-width: 239px;
-height: 89px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Rectangle 3 */
-
-
-position: absolute;
-width: 250px;
-height: 175px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Line 1 */
-
-
-position: absolute;
-width: 239px;
-height: 0px;
-
-border: 1.2px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
-
-
-/* Container(#20)(Title) */
-
-
-position: absolute;
-width: 230px;
-height: 31px;
-
-font-family: Siemreap;
-font-style: normal;
-font-weight: normal;
-font-size: 15px;
-line-height: 28px;
-display: flex;
-align-items: center;
-text-align: center;
-text-decoration-line: underline;
-
-color: #000000;
-
-mix-blend-mode: normal;
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Description for the container. */
-
-
-position: absolute;
-width: 250px;
-height: 52px;
-
-font-family: .Helvetica LT MM;
-font-style: normal;
-font-weight: normal;
-font-size: 8px;
-line-height: 10px;
-text-align: center;
-
-color: #000000;
-
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Rectangle 4 */
-
-
-position: absolute;
-width: 239px;
-height: 89px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Rectangle 3 */
-
-
-position: absolute;
-width: 250px;
-height: 175px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 2px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Line 1 */
-
-
-position: absolute;
-width: 239px;
-height: 0px;
-
-border: 1.2px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-transform: rotate(-0.24deg);
-
-
-/* Container(#25)(Title) */
-
-
-position: absolute;
-width: 230px;
-height: 31px;
-
-font-family: Siemreap;
-font-style: normal;
-font-weight: normal;
-font-size: 15px;
-line-height: 28px;
-display: flex;
-align-items: center;
-text-align: center;
-text-decoration-line: underline;
-
-color: #000000;
-
-mix-blend-mode: normal;
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Description for the container. */
-
-
-position: absolute;
-width: 250px;
-height: 52px;
-
-font-family: .Helvetica LT MM;
-font-style: normal;
-font-weight: normal;
-font-size: 8px;
-line-height: 10px;
-text-align: center;
-
-color: #000000;
-
-border: 0.5px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Rectangle 4 */
-
-
-position: absolute;
-width: 239px;
-height: 89px;
-
-background: #C4C4C4;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
