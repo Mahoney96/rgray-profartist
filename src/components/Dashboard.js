@@ -1,7 +1,26 @@
 import React from 'react';
 
-export default function Dashboard(){
+class Dashboard extends React.Component{
+    constructor(){
+        super();
+    }
+    render(){
+    // javascript here //
+
+
+
+    const newArray = function newArray(){
+        "Hello to the Landing Page"
+    }
+    console.log(newArray);
+            
     return(
-        <h2>Dashboard</h2>
+
+        <div className="conatiner-body-num-one">
+            <p> Hello To the LandingPage. </p>
+        </div>
     );
-}
+  }
+};
+
+export default Dashboard;

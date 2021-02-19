@@ -1,7 +1,7 @@
 import React from "react";
-import { LandingPage as LandingPage } from './components/LandingPage';
 import Dashboard from './components/Dashboard';
 import Preferences from './components/Preferences';
+import MyTesterComponent from './components/MyTesterComponent'
 import logo from './logo.svg';
 import './App.css';
 
@@ -12,12 +12,10 @@ function App() {
         <div className="App-header-landing">
           <Dashboard/>
           <Preferences/>
+          <MyTesterComponent/>
 
         </div>
         <img src={logo} className="App-logo" alt="logo" />
-        <a>
-          {LandingPage};
-        </a>
         <p>
           Click to learn more about the artist. 
         </p>
