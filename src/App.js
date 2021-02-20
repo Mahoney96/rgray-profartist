@@ -9,13 +9,13 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="Rectangle-1">
+      <header className="container-num-thirteen-title-includ-header-app">
         <div className="container-num1-title">
           <Dashboard/>
+          <br></br>
           <Preferences/>
+          <br></br>
           <MyTesterComponent/>
-          <Dashboard/>
-          <Dashboard/>
 
         </div>
         <img src={logo} className="App-logo" alt="logo" />
