@@ -18,6 +18,13 @@
 .env.test.local
 .env.production.local
 
+
+src/images/2EEBA8F3-82E3-4326-B158-06B0001881A6_1_105_c.jpeg
+src/images/04E75104-719D-495F-83A0-88BD4DA10A13_1_105_c.jpeg
+src/images/9E8A6EDC-AE69-4363-9119-ACC7EA6B841F_1_105_c.jpeg
+src/images/38C21E5F-6783-4C9F-AE63-D76CCE359E2E_1_105_c.jpeg
+src/images/D8281E99-C5DA-4615-9DE4-DA5E300015A4_1_105_c.jpeg
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
