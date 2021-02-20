@@ -6,7 +6,12 @@ class Dashboard extends React.Component{
     }
     render(){
     // javascript here //
+            function baz(foo, bam) {
+                foo = "bam";
+                bam = "yay";
+            }
 
+            console.log(baz)
 
 
     const newArray = function newArray(){

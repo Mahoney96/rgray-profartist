@@ -3,16 +3,19 @@ import Dashboard from './components/Dashboard';
 import Preferences from './components/Preferences';
 import MyTesterComponent from './components/MyTesterComponent'
 import logo from './logo.svg';
+import './components/virtGal/virt-gal.css';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <div className="App-header-landing">
+      <header className="Rectangle-1">
+        <div className="container-num1-title">
           <Dashboard/>
           <Preferences/>
           <MyTesterComponent/>
+          <Dashboard/>
+          <Dashboard/>
 
         </div>
         <img src={logo} className="App-logo" alt="logo" />
