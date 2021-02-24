@@ -1,8 +1,4 @@
 import React from "react";
-import Dashboard from './components/Dashboard';
-import Preferences from './components/Preferences';
-import MyTesterComponent from './components/MyTesterComponent';
-import MyTesterComponentTwo from "./components/MyTesterComponentTwo";
 import logo from './logo.svg';
 import './components/virtGal/virt-gal.css';
 import './App.css';
@@ -13,12 +9,6 @@ function App() {
     <div className="App">
       <header className="container-num-thirteen-title-includ-header-app">
         <div className="container-num1-title">
-          {/* <Dashboard/>,
-          <Preferences/>,
-          <MyTesterComponent/>,
-          <MyTesterComponentTwo/> */}
-          
-
         </div>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
