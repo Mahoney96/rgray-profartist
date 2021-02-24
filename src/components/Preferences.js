@@ -1,18 +1,15 @@
 import React from 'react';
 
 class Preferences extends React.Component{
-    constructor(){
-        super();
-    }
     render(){
     // javascript here //
 
 
 
-    const newArray = function newArray(){
+    const newObj = function newObj(){
         "Hello to the Landing Page"
     }
-    console.log(newArray);
+    console.log(newObj);
             
     return(
 

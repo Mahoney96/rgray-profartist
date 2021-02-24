@@ -1,12 +1,12 @@
-require('dotenv').config();
-const express = require("express");
+// require('dotenv').config();
+// const express = require("express");
 
-const massive = require('massive');
-const ctrl = require('/controller')
-const app = express();
+// const massive = require('massive');
+// const ctrl = require('/controller')
+// const app = express();
 
 
-const { SERVER_PORT, CONNECTION_STRING } = process.env;
+// const { SERVER_PORT, CONNECTION_STRING } = process.env;
 
 
 

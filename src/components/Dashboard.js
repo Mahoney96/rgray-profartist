@@ -1,9 +1,6 @@
 import React from 'react';
 
 class Dashboard extends React.Component{
-    constructor(){
-        super();
-    }
     render(){
     // javascript here //
             function baz(foo, bam) {
@@ -13,11 +10,10 @@ class Dashboard extends React.Component{
 
             console.log(baz)
 
-
-    const newArray = function newArray(){
+    const newDashObj = function newDashObj(){
         "Hello to the Landing Page"
     }
-    console.log(newArray);
+    console.log(newDashObj);
             
     return(
 

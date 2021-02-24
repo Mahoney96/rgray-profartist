@@ -1,6 +1,4 @@
 import React from "react";
-import  "./ParagraphOne";
-import "./ParagraphThree";
 
 function MyTestComponentTwo(){
     return(
