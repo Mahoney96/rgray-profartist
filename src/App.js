@@ -5,6 +5,8 @@ import MyTesterComponent from './components/MyTesterComponent'
 import logo from './logo.svg';
 import './components/virtGal/virt-gal.css';
 import './App.css';
+import MyTesterComponentTwo from "./components/MyTesterComponentTwo";
+import ParagraphThree from "./components/ParagraphThree";
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
           <Preferences/>
           <br></br>
           <MyTesterComponent/>
+          <MyTesterComponentTwo/>
+          
 
         </div>
         <img src={logo} className="App-logo" alt="logo" />
